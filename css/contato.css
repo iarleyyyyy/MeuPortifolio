@@ -1,0 +1,55 @@
+.contatos {
+	width: 960px;
+	margin: 0 auto 48px;
+}
+
+.githubb {
+	color: darkorange;
+	height: 50px;
+	font-size: 30px;
+	display: inline-block;
+	margin-right: 13px;
+	width: 15%;
+
+
+}
+
+.insta{
+	color: darkorange;
+	font-size: 30px;
+	display: inline-block;
+	margin-right: 13px;
+	width: 25%;
+
+}
+
+body {
+	background: MediumAquamarine;
+}
+
+.contatos ul {
+	list-style: none;
+	width: 600px;
+	margin-right: 113px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.badges {
+	color: ;
+	border-radius: 8px;
+	width: 10%;
+	margin: 0;
+	height: 48px;
+
+}
+
+
+
+}
+
+@keyframes spin { 
+	100% { 
+		transform:rotate(360deg); 
+	} 
+}
